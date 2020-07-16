@@ -1,0 +1,7 @@
+export const Types = {
+    ADD_TODO:"ADD_TODO",
+    DELETE_TODO:"DELETE_TODO",
+    SHOW_MODAL:"SHOW_MODAL",
+    TODO_TO_UPDATE:"TODO_TO_UPDATE",
+    HIDE_MODAL:"HIDE_MODAL"
+  };
